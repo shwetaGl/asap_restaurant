@@ -12,6 +12,12 @@
     padding-top: 0;
 }
 
+.app__navbar-text {
+    color: white;
+    font-size: 50px;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
 .app__footer-links {
     width: 100%;
     display: flex;
